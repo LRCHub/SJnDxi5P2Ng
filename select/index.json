@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Rouge",
+  "base_artist": "YU-KA",
+  "createdAt": "2026-02-28T13:49:16.515773Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Callin' Baton Rouge",
+      "artist": "Brooks Jefferson",
+      "has_synced": true,
+      "path": "select/01_Callin'_Baton_Rouge_Brooks_Jefferson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Callin' Baton Rouge",
+      "artist": "New Grass Revival",
+      "has_synced": true,
+      "path": "select/02_Callin'_Baton_Rouge_New_Grass_Revival.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Callin' Baton Rouge",
+      "artist": "The New Grass Revival",
+      "has_synced": true,
+      "path": "select/03_Callin'_Baton_Rouge_The_New_Grass_Revival.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Callin' Baton Rouge",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/04_Callin'_Baton_Rouge_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Callin' Baton Rouge (Album Version)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/05_Callin'_Baton_Rouge_(Album_Version)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bateau Rouge (feat. Lou Lou Ghelichkhani)",
+      "artist": "Thievery Corporation feat. Lou Lou Ghelichkhani",
+      "has_synced": true,
+      "path": "select/06_Bateau_Rouge_(feat._Lou_Lou_Ghelichkhani)_Thievery_Corporation_feat._Lou_Lou_Ghelichkhani.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bateau Rouge",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/07_Bateau_Rouge_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rose Rouge",
+      "artist": "St Germain",
+      "has_synced": true,
+      "path": "select/08_Rose_Rouge_St_Germain.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rose Rouge (12'' Version)",
+      "artist": "St Germain",
+      "has_synced": true,
+      "path": "select/09_Rose_Rouge_(12''_Version)_St_Germain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Au Moulin Rouge",
+      "artist": "Gazebo",
+      "has_synced": false,
+      "path": "select/10_Au_Moulin_Rouge_Gazebo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La Dame En Rouge",
+      "artist": "Echoberyl",
+      "has_synced": false,
+      "path": "select/11_La_Dame_En_Rouge_Echoberyl.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sniper Rouge",
+      "artist": "Mitch Murder feat. Emi",
+      "has_synced": false,
+      "path": "select/12_Sniper_Rouge_Mitch_Murder_feat._Emi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sniper Rouge",
+      "artist": "Mitch Murder",
+      "has_synced": false,
+      "path": "select/13_Sniper_Rouge_Mitch_Murder.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sniper Rouge (feat. Emi)",
+      "artist": "Mitch Murder EMI",
+      "has_synced": false,
+      "path": "select/14_Sniper_Rouge_(feat._Emi)_Mitch_Murder_EMI.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rouge et noir",
+      "artist": "Claude-Michel Schönberg",
+      "has_synced": true,
+      "path": "select/15_Rouge_et_noir_Claude-Michel_Schönberg.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rouge et noir",
+      "artist": "Claude‐Michel Schönberg",
+      "has_synced": true,
+      "path": "select/16_Rouge_et_noir_Claude‐Michel_Schönberg.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Welcome To The Moulin Rouge!",
+      "artist": "Danny Burstein feat. Jacqueline B. Arnold, Robyn Hurder, Holly James, Jeigh Madjus, Tam Mutu, Aaron Tveit, Sahr Ngaujah, Ricky Rojas & Original Broadway Cast of Moulin Rouge! The Musical",
+      "has_synced": true,
+      "path": "select/17_Welcome_To_The_Moulin_Rouge!_Danny_Burstein_feat._Jacqueline_B._Arnold,_Robyn_Hurder,_Holly_James,_Jeigh_Madj.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Welcome to the Moulin Rouge!",
+      "artist": "Danny Burstein, Jacqueline B․ Arnold, Robyn Hurder, Holly James, Jeigh Madjus, Tam Mutu, Aaron Tveit, Sahr Ngaujah & Ricky Rojas",
+      "has_synced": true,
+      "path": "select/18_Welcome_to_the_Moulin_Rouge!_Danny_Burstein,_Jacqueline_B._Arnold,_Robyn_Hurder,_Holly_James,_Jeigh_Madjus,_T.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Baton Rouge",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/19_Baton_Rouge_Lou_Reed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rouge",
+      "artist": "由薫",
+      "has_synced": false,
+      "path": "select/pl_01_Rouge_由薫.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Rouge",
+      "artist": "由薫",
+      "has_synced": false,
+      "path": "select/pl_02_Rouge_由薫.txt"
+    }
+  ]
+}
